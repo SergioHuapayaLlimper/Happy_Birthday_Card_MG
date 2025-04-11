@@ -99,7 +99,7 @@
   text-align: center;
   transform: rotateY(180deg) translateZ(1px); /* Añade profundidad para evitar solapamiento */
   color: white;
-  font-size: 25px;
+  font-size: 20px;
   font-style: italic;
   font-weight: bold;
   line-height: 1.4;
