@@ -10,7 +10,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 40px;
+  font-size: 35px;
   color: white;
   text-align: center;
   z-index: 10; /* Asegura que esté encima del corazón */
@@ -99,7 +99,7 @@
     text-align: center;
     transform: rotateY(180deg);
     color: white;
-    font-size: 10px;
+    font-size: 8px;
     font-style: italic;
     font-weight: bold;
     line-height: 1.4;
