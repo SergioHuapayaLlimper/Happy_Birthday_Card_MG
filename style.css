@@ -91,22 +91,20 @@
   }
 
   .back h2 {
-  width: 90%;
-  height: 90%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  transform: rotateY(180deg) translateZ(1px); /* Añade profundidad para evitar solapamiento */
-  color: white;
-  font-size: 20px;
-  font-style: italic;
-  font-weight: bold;
-  line-height: 1.4;
-  padding: 1.5vmin;
-  box-sizing: border-box;
-  z-index: 2;
-  position: absolute;
+    width: 98%;
+    height: 110%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transform: rotateY(180deg);
+    color: white;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.4;
+    padding: 1vw;
+    box-sizing: border-box;
   }
   
   .front,
