@@ -91,7 +91,7 @@
   }
 
   .back h2 {
-    width: 90%;
+  width: 90%;
   height: 90%;
   display: flex;
   justify-content: center;
@@ -99,7 +99,7 @@
   text-align: center;
   transform: rotateY(180deg) translateZ(1px); /* Añade profundidad para evitar solapamiento */
   color: white;
-  font-size: 2.2vmin;
+  font-size: 25px;
   font-style: italic;
   font-weight: bold;
   line-height: 1.4;
